@@ -1,7 +1,7 @@
 # 声明
 本项目基于[nnUNet](https://github.com/MIC-DKFZ/nnUNet)开发
 # 配置环境
-参照 [nnUNet](./readme.md)和[install_instruction](./documentation/installation_instructions.md)安装环境,
+参照 [nnUNet README](./nnunet_readme.md)和[install_instruction](./documentation/installation_instructions.md)安装环境,
 ### 创建环境
 ### 安装pytorch
 一定要先安装pytorch,同时注意nnunetv2、pytorch、cudnn、cuda、GPU驱动和GPU型号之间的对应关系。
